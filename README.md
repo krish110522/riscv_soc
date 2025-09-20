@@ -30,7 +30,7 @@ make config-gcc
 make
 sudo make install 
 ```
-[Verify Yosys](./task0_output/yosys.png)
+![Verify Yosys](task0_output/yosys.png)
 
 ### Icarus Verilog
 ```bash
@@ -38,7 +38,7 @@ sudo apt-get update
 sudo apt-get install iverilog
 ```
 
-[Verify IcarusVerilog](./task0_output/iverilog.png)
+![Verify IcarusVerilog](task0_output/iverilog.png)
 
 ### GTKWave
 ```bash
@@ -46,7 +46,7 @@ sudo apt-get update
 sudo apt install gtkwave
 ```
 
-[Verify GTKWave](./task0_output/gtkwave.png)
+![Verify GTKWave](task0_output/gtkwave.png)
 
 ### ngspice
 ```bash
@@ -58,7 +58,7 @@ cd release
 make
 sudo make install
 ```
-[Verify ngspice](./task0_output/ngspice.png)
+![Verify ngspice](task0_output/ngspice.png)
 
 ### Magic
 ```bash
@@ -69,7 +69,7 @@ cd magic
 make
 sudo make install
 ```
-[Verify Magic](./task0_output/magic.png)
+![Verify Magic](task0_output/magic.png)
 
 ### Docker
 ```bash
@@ -89,7 +89,7 @@ sudo reboot
 # After reboot
 docker run hello-world
 
-[Verify Dependencies](./task0_output/dependenci.png)
+![Verify Dependencies](task0_output/dependenci.png)
 
 ### OpenLane
 ```bash
