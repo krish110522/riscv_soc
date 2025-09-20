@@ -90,7 +90,7 @@ sudo reboot
 # After reboot
 docker run hello-world
 
-![Verify Dependencies](task0_output/dependenci.png)
+![Verify Dependencies](task0_output/dependencies.png)
 
 ### OpenLane
 ```bash
